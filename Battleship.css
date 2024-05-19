@@ -1,0 +1,13 @@
+body {
+    background-color: silver;
+}
+
+div {
+    font-size: x-large;
+    display: inline-block;
+    vertical-align: top;
+}
+
+p {
+    font-size: large;
+}
